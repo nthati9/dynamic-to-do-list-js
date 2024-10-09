@@ -47,7 +47,5 @@ document.addEventListener('DOMContentLoaded', () => {
             addTask(); // Call addTask if Enter key is pressed
         }
     });
-
-    // Invoke the addTask function on DOMContentLoaded
-    addTask();
 });
+
